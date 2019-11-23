@@ -1,2 +1,9 @@
-# Project exclude paths
-/service-registry-app/target/
+/*.iml
+/*.ipr
+/*.iws
+/.idea
+/.classpath
+/.project
+/.settings
+*/*.iml
+target/

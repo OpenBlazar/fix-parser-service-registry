@@ -14,6 +14,32 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
+    <name>Fix Parser Common</name>
+    <description>Common module for Fix Parser components</description>
+    <url>https://github.com/OpenBlazar/fix-parser-service-registry.git</url>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>WojciechZankowski</id>
+            <name>Wojciech Zankowski</name>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/OpenBlazar/fix-parser-service-registry.git</connection>
+        <developerConnection>scm:git:git@github.com:OpenBlazar/fix-parser-service-registry.git
+        </developerConnection>
+        <url>https://github.com/OpenBlazar/fix-parser-service-registry.git</url>
+        <tag>master</tag>
+    </scm>
+
     <modules>
         <module>service-registry-app</module>
     </modules>

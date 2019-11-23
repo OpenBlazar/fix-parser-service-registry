@@ -1,4 +1,4 @@
-# Fix Parser Parent
+# Fix Parser Service Registry
 
 [![Build Status](https://travis-ci.org/OpenBlazar/fix-parser-service-registry.svg?branch=master)](https://travis-ci.org/OpenBlazar/fix-parser-service-registry)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=pl.zankowski.fixparser%3Aservice-registry-all&metric=alert_status)](https://sonarcloud.io/dashboard/index/pl.zankowski.fixparser:service-registry-all)
